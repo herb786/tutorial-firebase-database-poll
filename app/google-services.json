@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333612781136",
+    "firebase_url": "https://poll-sample-eb6ec.firebaseio.com",
+    "project_id": "poll-sample-eb6ec",
+    "storage_bucket": "poll-sample-eb6ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333612781136:android:c5df44f9f1215611",
+        "android_client_info": {
+          "package_name": "com.hacaller.pollapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333612781136-j52442stq56616vadjki7e62mt699b0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hacaller.pollapplication",
+            "certificate_hash": "2b5bb9b923423e9585dd7b7249c3b2110f113a0e"
+          }
+        },
+        {
+          "client_id": "333612781136-hhn4bs1jf1ihevifhdqs3p3k68ebf8c9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd3bdlGXSRafefL_kqnhdrhLIeGHYXLT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333612781136-hhn4bs1jf1ihevifhdqs3p3k68ebf8c9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

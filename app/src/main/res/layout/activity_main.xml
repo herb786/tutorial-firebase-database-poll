@@ -29,7 +29,7 @@
             android:gravity="center"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:text="ANDROID: 220"/>
+            android:text="ANDROID: 0"/>
 
     <TextView
             android:id="@+id/iosCount"
@@ -40,7 +40,7 @@
             android:gravity="center"
             android:textSize="24sp"
             android:textStyle="bold"
-            android:text="iOS: 350"/>
+            android:text="iOS: 0"/>
 
     <Button
             android:id="@+id/btnAndroid"
